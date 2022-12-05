@@ -1,2 +1,5 @@
 #!/bin/bash
 tail -n +2 | cut -f -1 | sort -k 1
+[master 8b991db] The biggest fan
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x02-shell_redirections/103-the_biggest_fan
