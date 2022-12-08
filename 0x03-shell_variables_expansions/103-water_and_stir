@@ -1,0 +1,1 @@
+$(printf %o $(($((5#$(echo $WATER | tr water 10234))) + $((5#$(echo $STIR | tr stir. 01234 )))))
