@@ -1,0 +1,2 @@
+#!/bin/bash
+perl -line "printf if $. %2==1"
